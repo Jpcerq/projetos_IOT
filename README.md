@@ -49,7 +49,7 @@ Siga os passos abaixo para testar a simulação do circuito na plataforma Velxio
 1. Acessar a Plataforma:
    * Abra a plataforma de simulação Velxio / Wokwi no seu navegador.
 2. Abrir o Projeto:
-   * Acesse o link do projeto hospedado no Velxio / Wokwi: [COLE_SEU_LINK_AQUI].
+   * Acesse o link do projeto hospedado no Velxio: (https://velxio.dev/project/2fd814c2-42d4-47c3-8b46-2e90d503c5b9).
 3. Carregar o Código:
    * Copie o código-fonte C++ (.ino / sketch.ino) fornecido no repositório e cole na aba de código do editor.
 4. Iniciar a Simulação:
